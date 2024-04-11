@@ -1,2 +1,1 @@
-# GAN
-GAN / DCGAN / DCGAN with WGAN-GP
+# Deep_Learning
