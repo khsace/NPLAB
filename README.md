@@ -1,1 +1,2 @@
-# Deep_learning
+# NPLAB
+금오공대 학부연구 과정을 기록합니다.
