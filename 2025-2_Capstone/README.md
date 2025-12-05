@@ -1,6 +1,6 @@
 # MFC 프로그램 사용 설명서
 <p align="center">
-  <img src="./New-logo.png" alt="NPLAB" width="250">
+  <img src="./New-logo.png" alt="NPLAB" width="400">
 </p>
 
 ## 1. 배경
