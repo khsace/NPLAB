@@ -20,7 +20,7 @@
 - 잔여유효수명(RUL, Remaining Useful Life)를 확률로 예측
 - 기본적인 동작
 <p align="center">
-  <img src="./RUL_예측흐름도.png" width="400">
+  <img src="./RUL_예측흐름도.png" width="1200">
 </p>
 
 
