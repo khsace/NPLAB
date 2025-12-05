@@ -18,7 +18,7 @@
 ## 2. 프로젝트 설명
 - 무인기 탑재 IMU의 다시점 점검 데이터를 가지고 항법 드리프트 열화 모델을 설계
 - 잔여유효수명(RUL, Remaining Useful Life)를 확률로 예측
-- 기본적인 동작
+- **기본적인 동작**:
 <p align="center">
   <img src="./RUL_예측흐름도.png" width="1200">
 </p>
