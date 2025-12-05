@@ -1,7 +1,8 @@
-# MFC 프로그램 사용 설명서
 <p align="center">
   <img src="./New-logo.png" alt="NPLAB" width="400">
 </p>
+
+# MFC 프로그램 사용 설명서
 
 ## 1. 배경
 - 본 과제는 25-2 국립금오공과대학교 RISE사업단 주최하 기업연계형 캡스톤 프로젝트 일환으로써, LIG-Nex1과 NPLAB 연구실의 협력으로 진행됨
